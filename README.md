@@ -30,11 +30,11 @@ src/
 ├── models/               # Interação com banco de dados
 │   └── productModel.js
 ├── routes/               # Definição das rotas da API
-│   └── productRoutes.js
+│   └── productRoute.js
 ├── database/            # Configuração e conexão SQLite
 │   └── database.js
 ├── utils/               # Funções utilitárias
-│   └── letterUtils.js
+│   └── letra-ausente.js
 └── app.js               # Configuração do Express
 server.js                # Servidor principal
 package.json
